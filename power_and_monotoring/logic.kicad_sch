@@ -3609,7 +3609,7 @@
 		(uuid "248b124b-d497-4ca4-a950-dfd69a20d57c")
 	)
 	(junction
-		(at 472.44 92.71)
+		(at 488.315 90.678)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ab5241e-497a-41b4-bd32-580ada28acc2")
@@ -3645,7 +3645,7 @@
 		(uuid "485c105f-a723-4728-8c7c-581f61b9831f")
 	)
 	(junction
-		(at 472.44 83.185)
+		(at 488.315 81.153)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d9c230b-2cb9-4bb4-8553-bbef7dc6da9b")
@@ -3685,6 +3685,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b6e800e-99e9-4f27-b117-ed27b28e9025")
+	)
+	(junction
+		(at 338.582 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80a4d20b-df4f-416e-86ec-c99fc1f94dc7")
 	)
 	(junction
 		(at 99.06 207.01)
@@ -3735,6 +3741,12 @@
 		(uuid "a34dcb40-8cc8-42da-8a64-080e20beb0a8")
 	)
 	(junction
+		(at 461.264 66.548)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5a3c40a-4d7f-4073-a8bc-4c0c7c13ac7f")
+	)
+	(junction
 		(at 57.15 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3771,7 +3783,7 @@
 		(uuid "b413f9bd-9343-46c1-9d50-365fc398901e")
 	)
 	(junction
-		(at 508 95.25)
+		(at 523.875 93.218)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b450f9fd-bff9-4097-8516-99cf118ec5d6")
@@ -3793,6 +3805,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd8e0cf1-7d46-4ae6-b663-a8ff3feec52f")
+	)
+	(junction
+		(at 458.724 66.548)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8673849-e958-42bc-a383-eaba2e78ed28")
 	)
 	(junction
 		(at 267.97 120.65)
@@ -3842,7 +3860,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 90.805) (xy 472.44 92.71)
+			(xy 488.315 88.773) (xy 488.315 90.678)
 		)
 		(stroke
 			(width 0)
@@ -3962,7 +3980,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 95.25) (xy 508 104.14)
+			(xy 523.875 93.218) (xy 523.875 102.108)
 		)
 		(stroke
 			(width 0)
@@ -4062,7 +4080,7 @@
 	)
 	(wire
 		(pts
-			(xy 455.295 73.66) (xy 451.485 73.66)
+			(xy 471.17 71.628) (xy 467.36 71.628)
 		)
 		(stroke
 			(width 0)
@@ -4222,7 +4240,7 @@
 	)
 	(wire
 		(pts
-			(xy 450.85 68.58) (xy 455.295 68.58)
+			(xy 455.93 66.548) (xy 458.724 66.548)
 		)
 		(stroke
 			(width 0)
@@ -4332,7 +4350,7 @@
 	)
 	(wire
 		(pts
-			(xy 488.95 92.71) (xy 472.44 92.71)
+			(xy 504.825 90.678) (xy 488.315 90.678)
 		)
 		(stroke
 			(width 0)
@@ -4399,6 +4417,16 @@
 			(type default)
 		)
 		(uuid "4484abe7-f321-42d1-858e-d5c530a1553b")
+	)
+	(wire
+		(pts
+			(xy 461.264 77.47) (xy 461.264 79.502)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45d040ce-2fe3-4ae9-8f5b-45e78ab233dc")
 	)
 	(wire
 		(pts
@@ -4502,7 +4530,17 @@
 	)
 	(wire
 		(pts
-			(xy 451.485 83.185) (xy 472.44 83.185)
+			(xy 338.582 60.96) (xy 336.55 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "575b6ccc-7d1b-4aa7-9fd0-ce12c0571696")
+	)
+	(wire
+		(pts
+			(xy 467.36 81.153) (xy 488.315 81.153)
 		)
 		(stroke
 			(width 0)
@@ -4512,7 +4550,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 100.33) (xy 472.44 102.235)
+			(xy 488.315 98.298) (xy 488.315 100.203)
 		)
 		(stroke
 			(width 0)
@@ -4552,7 +4590,7 @@
 	)
 	(wire
 		(pts
-			(xy 532.638 95.25) (xy 532.638 96.52)
+			(xy 548.513 93.218) (xy 548.513 94.488)
 		)
 		(stroke
 			(width 0)
@@ -4642,6 +4680,16 @@
 	)
 	(wire
 		(pts
+			(xy 458.724 66.548) (xy 461.264 66.548)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61ec8474-8828-4a50-ac82-a86eb985a330")
+	)
+	(wire
+		(pts
 			(xy 380.111 240.538) (xy 384.556 240.538)
 		)
 		(stroke
@@ -4692,7 +4740,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 95.25) (xy 532.638 95.25)
+			(xy 523.875 93.218) (xy 548.513 93.218)
 		)
 		(stroke
 			(width 0)
@@ -4709,6 +4757,16 @@
 			(type default)
 		)
 		(uuid "6a9fc5c1-75bb-47f7-805b-c05f5b890a4b")
+	)
+	(wire
+		(pts
+			(xy 338.582 60.96) (xy 338.582 64.262)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e24bdec-4ae1-4920-9b22-c51112a2ce93")
 	)
 	(wire
 		(pts
@@ -4782,7 +4840,7 @@
 	)
 	(wire
 		(pts
-			(xy 451.485 73.66) (xy 451.485 83.185)
+			(xy 467.36 71.628) (xy 467.36 81.153)
 		)
 		(stroke
 			(width 0)
@@ -4802,7 +4860,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 83.185) (xy 472.44 71.12)
+			(xy 488.315 81.153) (xy 488.315 69.088)
 		)
 		(stroke
 			(width 0)
@@ -4932,7 +4990,7 @@
 	)
 	(wire
 		(pts
-			(xy 488.95 104.14) (xy 488.95 97.79)
+			(xy 504.825 102.108) (xy 504.825 95.758)
 		)
 		(stroke
 			(width 0)
@@ -4989,6 +5047,16 @@
 			(type default)
 		)
 		(uuid "9062ee44-e74f-4543-9129-a97961b20fb7")
+	)
+	(wire
+		(pts
+			(xy 461.264 66.548) (xy 461.264 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "917e8bd7-70f5-4637-b6a4-fb2faa404409")
 	)
 	(wire
 		(pts
@@ -5322,13 +5390,23 @@
 	)
 	(wire
 		(pts
-			(xy 508 104.14) (xy 488.95 104.14)
+			(xy 523.875 102.108) (xy 504.825 102.108)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bc7a9d96-a11e-4643-8401-a432eb1dfa93")
+	)
+	(wire
+		(pts
+			(xy 461.264 66.548) (xy 471.17 66.548)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bca8de4b-51d1-4520-a5b2-411819e2e17c")
 	)
 	(wire
 		(pts
@@ -5339,6 +5417,16 @@
 			(type default)
 		)
 		(uuid "bd8789a9-998f-4215-88eb-92d1693fd6af")
+	)
+	(wire
+		(pts
+			(xy 338.582 71.882) (xy 338.582 73.914)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be6480ab-b60a-4f22-baa6-4f17765928f3")
 	)
 	(wire
 		(pts
@@ -5412,7 +5500,7 @@
 	)
 	(wire
 		(pts
-			(xy 504.19 95.25) (xy 508 95.25)
+			(xy 520.065 93.218) (xy 523.875 93.218)
 		)
 		(stroke
 			(width 0)
@@ -5422,7 +5510,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 60.96) (xy 356.87 60.96)
+			(xy 358.14 60.96) (xy 338.582 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5552,7 +5640,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 71.12) (xy 470.535 71.12)
+			(xy 488.315 69.088) (xy 486.41 69.088)
 		)
 		(stroke
 			(width 0)
@@ -5669,6 +5757,16 @@
 			(type default)
 		)
 		(uuid "e99451a3-fa23-420b-b594-fadc1d99cfbb")
+	)
+	(wire
+		(pts
+			(xy 458.724 62.484) (xy 458.724 66.548)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e997ee32-97c3-48f9-a4cf-8abe2689484f")
 	)
 	(wire
 		(pts
@@ -5885,7 +5983,7 @@
 	)
 	(text "R1"
 		(exclude_from_sim no)
-		(at 468.63 87.63 0)
+		(at 484.505 85.598 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5928,7 +6026,7 @@
 	)
 	(text "Vout=Vin*(R2)/(R1+R2)"
 		(exclude_from_sim no)
-		(at 516.89 89.535 0)
+		(at 532.765 87.503 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5949,7 +6047,7 @@
 	)
 	(text "R2"
 		(exclude_from_sim no)
-		(at 468.63 97.155 0)
+		(at 484.505 95.123 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6090,7 +6188,7 @@
 		(uuid "7a4ec2a8-c38d-4b1c-9fb4-a935c6f71adc")
 	)
 	(label "POW_SIG_AMP"
-		(at 508 95.25 0)
+		(at 523.875 93.218 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6267,7 +6365,7 @@
 	)
 	(hierarchical_label "POW_SIG"
 		(shape input)
-		(at 450.85 68.58 180)
+		(at 455.93 66.548 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6399,7 +6497,7 @@
 	)
 	(hierarchical_label "BRAKE_SIG"
 		(shape input)
-		(at 356.87 60.96 180)
+		(at 336.55 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7897,7 +7995,7 @@
 	)
 	(symbol
 		(lib_id "UniSA_Motorsport_Resistor:CRCW0805")
-		(at 472.44 96.52 0)
+		(at 488.315 94.488 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7905,7 +8003,7 @@
 		(dnp no)
 		(uuid "32591a38-53e6-4df4-ae44-a9ece596b132")
 		(property "Reference" "R30"
-			(at 474.1672 94.2086 0)
+			(at 490.0422 92.1766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7914,7 +8012,7 @@
 			)
 		)
 		(property "Value" "CRCW0805"
-			(at 474.1672 96.52 0)
+			(at 490.0422 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7923,7 +8021,7 @@
 			)
 		)
 		(property "Footprint" "UniSA_Motorsport_Resistor:0805"
-			(at 473.456 96.774 90)
+			(at 489.331 94.742 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7932,7 +8030,7 @@
 			)
 		)
 		(property "Datasheet" "https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
-			(at 472.44 96.52 0)
+			(at 488.315 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7941,7 +8039,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 472.44 96.52 0)
+			(at 488.315 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7950,7 +8048,7 @@
 			)
 		)
 		(property "Resistance" "10K"
-			(at 474.1672 98.8314 0)
+			(at 490.0422 96.7994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7959,7 +8057,7 @@
 			)
 		)
 		(property "Voltage Rating" "150V"
-			(at 472.44 96.52 0)
+			(at 488.315 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7968,7 +8066,7 @@
 			)
 		)
 		(property "Power Rating" "125mW"
-			(at 472.44 96.52 0)
+			(at 488.315 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7977,7 +8075,7 @@
 			)
 		)
 		(property "E24 Values" "http://www.ohmslawcalculator.com/e24-resistor-sizes"
-			(at 473.71 96.52 90)
+			(at 489.585 94.488 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9367,7 +9465,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 532.638 96.52 180)
+		(at 548.513 94.488 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9375,7 +9473,7 @@
 		(dnp no)
 		(uuid "5d65f223-ce00-46d0-abcc-a4dcc98f6a26")
 		(property "Reference" "POW_SIG_AMP1"
-			(at 534.543 100.457 0)
+			(at 550.418 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9384,7 +9482,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 534.543 97.917 0)
+			(at 550.418 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9393,7 +9491,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 527.558 96.52 0)
+			(at 543.433 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9402,7 +9500,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 527.558 96.52 0)
+			(at 543.433 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9411,7 +9509,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 532.638 96.52 0)
+			(at 548.513 94.488 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9580,6 +9678,112 @@
 		)
 	)
 	(symbol
+		(lib_id "UniSA_Motorsport_Resistor:CRCW0805")
+		(at 338.582 68.072 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61a77787-9271-4fe4-9931-cae449354a69")
+		(property "Reference" "R9"
+			(at 336.8548 65.7606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CRCW0805"
+			(at 336.8548 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UniSA_Motorsport_Resistor:0805"
+			(at 337.566 68.326 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
+			(at 338.582 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 338.582 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "100k"
+			(at 336.8548 70.3834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Voltage Rating" "150V"
+			(at 338.582 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "125mW"
+			(at 338.582 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "E24 Values" "http://www.ohmslawcalculator.com/e24-resistor-sizes"
+			(at 337.312 68.072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df4d1c20-13c8-4f88-8f05-4170c1a1381b")
+		)
+		(pin "2"
+			(uuid "e6bcc6ef-eebb-428e-a4ef-3a9d2a3ceebd")
+		)
+		(instances
+			(project "power_and_monotoring"
+				(path "/09bdaed7-9abd-4a06-aca9-25dcfc39eec3/22f29577-e4ea-44ad-b176-4b72d277bfff"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UniSA_Motorsport_Logic:CD4071BM96")
 		(at 282.575 211.455 0)
 		(unit 5)
@@ -9692,7 +9896,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 472.44 102.235 0)
+		(at 488.315 100.203 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9700,7 +9904,7 @@
 		(dnp no)
 		(uuid "663b6aa1-66cc-4a7c-ad25-f4c14b2324e9")
 		(property "Reference" "#PWR044"
-			(at 472.44 108.585 0)
+			(at 488.315 106.553 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9709,7 +9913,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 472.567 106.6292 0)
+			(at 488.442 104.5972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9717,7 +9921,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 472.44 102.235 0)
+			(at 488.315 100.203 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9726,7 +9930,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 472.44 102.235 0)
+			(at 488.315 100.203 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9735,7 +9939,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 472.44 102.235 0)
+			(at 488.315 100.203 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9821,6 +10025,71 @@
 			(project "BSPD"
 				(path "/c332fa55-4168-4f55-88a5-f82c7c21040b/00000000-0000-0000-0000-00005f7279bf"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 461.264 79.502 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "72849ead-019f-44b0-bbb7-b263b813fd7b")
+		(property "Reference" "#PWR029"
+			(at 461.264 85.852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 461.391 83.8962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 461.264 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 461.264 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 461.264 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0fe6d2e-c741-4e0e-99d7-4a2e88530cf3")
+		)
+		(instances
+			(project "power_and_monotoring"
+				(path "/09bdaed7-9abd-4a06-aca9-25dcfc39eec3/22f29577-e4ea-44ad-b176-4b72d277bfff"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -10988,7 +11257,7 @@
 	)
 	(symbol
 		(lib_id "UniSA_Motorsport_Resistor:CRCW0805")
-		(at 472.44 86.995 0)
+		(at 488.315 84.963 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10996,7 +11265,7 @@
 		(dnp no)
 		(uuid "8c8ae620-c117-4156-ba8a-b1de747f9e2f")
 		(property "Reference" "R29"
-			(at 474.1672 84.6836 0)
+			(at 490.0422 82.6516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11005,7 +11274,7 @@
 			)
 		)
 		(property "Value" "CRCW0805"
-			(at 474.1672 86.995 0)
+			(at 490.0422 84.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11014,7 +11283,7 @@
 			)
 		)
 		(property "Footprint" "UniSA_Motorsport_Resistor:0805"
-			(at 473.456 87.249 90)
+			(at 489.331 85.217 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11023,7 +11292,7 @@
 			)
 		)
 		(property "Datasheet" "https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
-			(at 472.44 86.995 0)
+			(at 488.315 84.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11032,7 +11301,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 472.44 86.995 0)
+			(at 488.315 84.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11041,7 +11310,7 @@
 			)
 		)
 		(property "Resistance" "10K"
-			(at 474.1672 89.3064 0)
+			(at 490.0422 87.2744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11050,7 +11319,7 @@
 			)
 		)
 		(property "Voltage Rating" "150V"
-			(at 472.44 86.995 0)
+			(at 488.315 84.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11059,7 +11328,7 @@
 			)
 		)
 		(property "Power Rating" "125mW"
-			(at 472.44 86.995 0)
+			(at 488.315 84.963 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11068,7 +11337,7 @@
 			)
 		)
 		(property "E24 Values" "http://www.ohmslawcalculator.com/e24-resistor-sizes"
-			(at 473.71 86.995 90)
+			(at 489.585 84.963 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11158,6 +11427,71 @@
 			(project "FeatherBoard"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ce4178aa-a44b-4063-8e1c-03c90baefe49"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 338.582 73.914 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8f59ae64-b272-4803-824c-13d6c4b8aa6a")
+		(property "Reference" "#PWR027"
+			(at 338.582 80.264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 338.709 78.3082 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 338.582 73.914 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 338.582 73.914 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 338.582 73.914 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "788b5cde-eb2f-418e-8e86-b899c39f3f9b")
+		)
+		(instances
+			(project "power_and_monotoring"
+				(path "/09bdaed7-9abd-4a06-aca9-25dcfc39eec3/22f29577-e4ea-44ad-b176-4b72d277bfff"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -11547,6 +11881,112 @@
 			(project "BSPD"
 				(path "/c332fa55-4168-4f55-88a5-f82c7c21040b/00000000-0000-0000-0000-00005f7279bf"
 					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UniSA_Motorsport_Resistor:CRCW0805")
+		(at 461.264 73.66 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "98648746-c85d-4c25-a2d6-d8943e2b0101")
+		(property "Reference" "R10"
+			(at 459.5368 71.3486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CRCW0805"
+			(at 459.5368 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UniSA_Motorsport_Resistor:0805"
+			(at 460.248 73.914 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
+			(at 461.264 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 461.264 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "100k"
+			(at 459.5368 75.9714 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Voltage Rating" "150V"
+			(at 461.264 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "125mW"
+			(at 461.264 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "E24 Values" "http://www.ohmslawcalculator.com/e24-resistor-sizes"
+			(at 459.994 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "795e4861-9789-4235-8fef-343b9b344ba0")
+		)
+		(pin "2"
+			(uuid "f3b47cb4-7e26-428a-b7d0-dc0c3f3f11b8")
+		)
+		(instances
+			(project "power_and_monotoring"
+				(path "/09bdaed7-9abd-4a06-aca9-25dcfc39eec3/22f29577-e4ea-44ad-b176-4b72d277bfff"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -13267,7 +13707,7 @@
 	)
 	(symbol
 		(lib_id "UniSA_Motorsport_OpAmp:LM7902D")
-		(at 495.3 95.25 0)
+		(at 511.175 93.218 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13276,7 +13716,7 @@
 		(fields_autoplaced yes)
 		(uuid "c19b1d9f-8715-475c-bab2-a49e4c0b6fbd")
 		(property "Reference" "U4"
-			(at 496.57 86.36 0)
+			(at 512.445 84.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13284,7 +13724,7 @@
 			)
 		)
 		(property "Value" "LM7902D"
-			(at 496.57 88.9 0)
+			(at 512.445 86.868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13292,7 +13732,7 @@
 			)
 		)
 		(property "Footprint" "UniSA_Motorsport_SO:SOIC-14"
-			(at 494.03 88.9 0)
+			(at 509.905 86.868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13301,7 +13741,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm2902.pdf"
-			(at 494.03 88.9 0)
+			(at 509.905 86.868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13310,7 +13750,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 495.3 95.25 0)
+			(at 511.175 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14838,7 +15278,7 @@
 	)
 	(symbol
 		(lib_id "UniSA_Motorsport_OpAmp:LM7902D")
-		(at 461.645 71.12 0)
+		(at 477.52 69.088 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14847,7 +15287,7 @@
 		(fields_autoplaced yes)
 		(uuid "efca9dab-fc1e-483c-a562-bd16ee04c848")
 		(property "Reference" "U4"
-			(at 462.915 62.23 0)
+			(at 478.79 60.198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14855,7 +15295,7 @@
 			)
 		)
 		(property "Value" "LM7902D"
-			(at 462.915 64.77 0)
+			(at 478.79 62.738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14863,7 +15303,7 @@
 			)
 		)
 		(property "Footprint" "UniSA_Motorsport_SO:SOIC-14"
-			(at 460.375 64.77 0)
+			(at 476.25 62.738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14872,7 +15312,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm2902.pdf"
-			(at 460.375 64.77 0)
+			(at 476.25 62.738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14881,7 +15321,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 461.645 71.12 0)
+			(at 477.52 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14936,6 +15376,73 @@
 				(path "/09bdaed7-9abd-4a06-aca9-25dcfc39eec3/22f29577-e4ea-44ad-b176-4b72d277bfff"
 					(reference "U4")
 					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 458.724 62.484 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f082dfd6-d878-43c0-ac62-826ef7a72ce9")
+		(property "Reference" "POW_SIGNAL1"
+			(at 460.629 58.547 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 460.629 61.087 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 453.644 62.484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 453.644 62.484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 458.724 62.484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "326e48ff-65f8-42f9-be0c-08fe0b8bdab6")
+		)
+		(instances
+			(project "power_and_monotoring"
+				(path "/09bdaed7-9abd-4a06-aca9-25dcfc39eec3/22f29577-e4ea-44ad-b176-4b72d277bfff"
+					(reference "POW_SIGNAL1")
+					(unit 1)
 				)
 			)
 		)
